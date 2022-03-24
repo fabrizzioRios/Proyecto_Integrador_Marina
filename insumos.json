@@ -1,0 +1,81 @@
+
+{
+   "All_Insumos":{
+      "Medicamentos":{
+         "name":"Medicamentos",
+         "price":150
+      },
+      "Gazas":{
+         "name":"Gazas",
+         "price":20
+      },
+      "Cateters":{
+         "name":"Cateters",
+         "price":200
+      },
+      "Herramientas_Cirugia":{
+         "name":"Herramientas_Cirugia",
+         "price":10000
+      },
+      "Herramientas_Doctor":{
+         "name":"Herramientas_Doctor",
+         "price":5000
+      },
+      "Limpieza":{
+         "name":"Limpieza",
+         "price":500
+      },
+      "Jeringas":{
+         "name":"Jeringas",
+         "price":20
+      },
+      "Bolsa de Suero":{
+         "name":"Bolsa de suero",
+         "price":150
+      },
+      "Paracetamol":{
+         "name":"Paracetamol",
+         "price":50
+      },
+      "Morfina":{
+         "name":"Morfina",
+         "price":250
+      },
+      "Ibuprofeno":{
+         "name":"Ibuprofeno",
+         "price":50
+      },
+      "Acetilsalicilico":{
+         "name":"Tapentadol",
+         "price":1200
+      },
+      "Peptobismol":{
+         "name":"Peptobismol",
+         "price":200
+      },
+      "Inflamadol":{
+         "name":"Inflamadol",
+         "price":60
+      },
+      "Ritonavir":{
+         "name":"Ritonavir",
+         "price":4000
+      },
+      "Cefalaxina":{
+         "name":"Cefalaxina",
+         "price":300
+      },
+      "Dexametasona":{
+         "name":"Dexametasona",
+         "price":300
+      },
+      "Vickvaporub":{
+         "name":"Vickvaporub",
+         "price":200
+      },
+      "Solucion salina":{
+         "name":"Solucion salina",
+         "price":200
+      }
+   }
+}
