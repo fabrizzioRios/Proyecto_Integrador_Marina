@@ -24,9 +24,9 @@ USERS = [
     },
     {
         "id": 1,
-        "name": "Luis2",
+        "name": "enfermera1",
         "password": "123",
-        "username": "not_admin",
+        "username": "enfermera1",
         "is_admin": False,
         "is_nurse": False,
         "is_patient": True,
@@ -38,9 +38,9 @@ USERS = [
     },
     {
         "id": 1,
-        "name": "Luis3",
+        "name": "paciente1",
         "password": "123",
-        "username": "not_admin2",
+        "username": "paciente1",
         "is_admin": False,
         "is_nurse": True,
         "is_patient": False,
@@ -51,8 +51,6 @@ USERS = [
         "doctor": None,
     }
 ]
-
-PATIENTS = []
 
 TICKET = []
 
