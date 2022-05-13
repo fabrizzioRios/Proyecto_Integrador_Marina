@@ -1,0 +1,2 @@
+{'id': 15, 'patient_id': 9, 'start_date': '2019-10-10', 'end_date': '2020-10-10', 'type': 'Therapy', 'amount': 1098000.0}
+{'id': 8, 'patient_id': 5, 'start_date': '2019-10-10', 'end_date': '2019-10-20', 'type': 'Therapy', 'amount': 30000.0}

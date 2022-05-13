@@ -1,0 +1,2 @@
+{'id': 5, 'name': 'luis1', 'password': '123', 'username': 'paciente1', 'is_admin': False, 'is_nurse': False, 'is_patient': True, 'weight': 123, 'height': 123, 'blood': 'b+', 'reason': 'covid', 'doctor': 'dr rios', 'place': 'Therapy'}
+{'id': 18, 'name': 'luis', 'password': '123', 'username': 'paciente1', 'is_admin': False, 'is_nurse': False, 'is_patient': True, 'weight': 123, 'height': 190, 'blood': 'b+', 'reason': 'covid', 'doctor': 'Dr Navarro', 'place': 'Therapy'}

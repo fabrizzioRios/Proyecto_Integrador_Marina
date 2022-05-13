@@ -29,7 +29,7 @@
          "name":"Jeringas",
          "price":20
       },
-      "Bolsa de Suero":{
+      "Bolsa de suero":{
          "name":"Bolsa de suero",
          "price":150
       },
@@ -45,7 +45,7 @@
          "name":"Ibuprofeno",
          "price":50
       },
-      "Acetilsalicilico":{
+      "Tapentadol":{
          "name":"Tapentadol",
          "price":1200
       },
